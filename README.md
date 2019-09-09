@@ -25,6 +25,12 @@ Greatest % Decrease:	        DYN.W	    -91.49%
 
 Greatest Total Volume:	      BAC	      27428529600
 
+# Observations
+
+* BAC has the greatest volume all three years
+
+* Greatest % increases can be very large if stock prices start very low.
+
 # Assumptions
 
 * Only 1 year is represented per Worksheet and the Year is the Name of the Worksheet
